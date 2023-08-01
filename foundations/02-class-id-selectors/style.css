@@ -1,0 +1,20 @@
+.pink {
+    color: black;
+    background-color: #ffc0cb;
+    font-size: 18px;
+    font-family: "Veranda", "DejaVu Sans", sans-serif;
+}
+
+.large-text {
+    font-size: 30px;
+}
+
+#big-blue {
+    color: #0000ff;
+    font-size: 42px;
+}
+
+#green-bold {
+    background-color: #90ee90;    
+    font-weight: bold;
+}
