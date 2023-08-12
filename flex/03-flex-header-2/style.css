@@ -12,6 +12,13 @@ body {
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+/* Added by KT */
+  padding: 8px;
+
+  /* Flexbox Properties */
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 .profile-image {
@@ -45,4 +52,13 @@ a {
 
 ul {
   list-style-type: none;
+/* Added by KT */
+  padding: 0px;
+
+  /* Flex-box Properties */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 16px;
+  margin-right: auto;
 }
